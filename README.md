@@ -1,4 +1,4 @@
-#👋 Hey there! I'm Masrizki Muzakki
+# 👋 Hey there! I'm Masrizki Muzakki
 I'm a passionate Backend Developer with a strong focus on building scalable, secure, and efficient server-side applications. I thrive on solving complex problems and designing clean, modular, and maintainable systems. With a knack for APIs, databases, I aim to deliver high-performance backend solutions that enhance the user experience.
 
 # 💻 Tech Stack and Skills
@@ -14,12 +14,12 @@ I believe in writing clean and maintainable code that follows industry best prac
 - **Security**: Ensuring data integrity and privacy at every level of the system
 
 # 🌱 What I’m Working On
-**Learning**: Improving my skills in cloud computing, serverless architecture, and Artificial Intellegance.
+**Learning**: Improving my skills in cloud computing, operations system, serverless architecture, and Artificial Intellegance.
 
 # 📫 Let’s Connect
-Feel free to reach out to me if you'd like to connect, collaborate, or just chat about all things!
-📧 **Email**: mmuzakky11@gmail.com
-💼 **LinkedIn**: https://www.linkedin.com/in/masrizki-muzakki-a924942b3
+Feel free to reach out to me if you'd like to connect, collaborate, or just chat about all things! <br>
+📧 **Email**: mmuzakky11@gmail.com <br>
+💼 **LinkedIn**: https://www.linkedin.com/in/masrizki-muzakki-a924942b3 <br>
 📸 **Instagram**: [@masr.mu](https://www.instagram.com/masr.mu)
 
 <!--
