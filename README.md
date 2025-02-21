@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d6a3Z0aTgwZ2llM3RhZmYzZGRhaGViMGF5ODJkM3Z3MG9vajZ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="180"/>
+</div>
+
 ## 👋 Hey there! I'm Masrizki Muzakki
 I'm a passionate Backend Developer with a strong focus on building scalable, secure, and efficient server-side applications. I thrive on solving complex problems and designing clean, modular, and maintainable systems. With a knack for APIs, databases, I aim to deliver high-performance backend solutions that enhance the user experience.
 
@@ -18,9 +22,22 @@ I believe in writing clean and maintainable code that follows industry best prac
 
 ## 📫 Let’s Connect
 Feel free to reach out to me if you'd like to connect, collaborate, or just chat about all things! <br>
-📧 **Email**: mmuzakky11@gmail.com <br>
+
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/masrizki-muzakki-a924942b3" style="text-decoration">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" width="50" alt="LinkedIn"/>
+  </a>
+  <a href="mmuzakky11@gmail.com">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png" width="50" alt="Gmail"/>
+  </a>
+   <a href="https://www.instagram.com/masr.mu">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="50" alt="Instagram"/>
+  </a>
+</div>
+
+<!-- 📧 **Email**: mmuzakky11@gmail.com <br>
 💼 **LinkedIn**: https://www.linkedin.com/in/masrizki-muzakki-a924942b3 <br>
-📸 **Instagram**: [@masr.mu](https://www.instagram.com/masr.mu)
+📸 **Instagram**: [@masr.mu](https://www.instagram.com/masr.mu) -->
 
 <!--
 **masrmu/masrmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
