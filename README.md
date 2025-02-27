@@ -40,7 +40,6 @@ Feel free to reach out to me if you'd like to connect, collaborate, or just chat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masrmu&layout=compact&theme=vision-friendly-dark)
 
-## :writing_hand: Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
