@@ -35,6 +35,15 @@ Feel free to reach out to me if you'd like to connect, collaborate, or just chat
   </a>
 </div>
 
+## :fire: My Stats
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=masrmu&theme=highcontrast" alt="GitHub Streak" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masrmu&layout=compact&theme=vision-friendly-dark)
+
+## :writing_hand: Blog Posts 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- 📧 **Email**: mmuzakky11@gmail.com <br>
 💼 **LinkedIn**: https://www.linkedin.com/in/masrizki-muzakki-a924942b3 <br>
 📸 **Instagram**: [@masr.mu](https://www.instagram.com/masr.mu) -->
