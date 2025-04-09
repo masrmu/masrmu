@@ -30,7 +30,7 @@ Feel free to reach out to me if you'd like to connect, collaborate, or just chat
   <a href="mmuzakky11@gmail.com">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png" width="50" alt="Gmail"/>
   </a>
-   <a href="https://www.instagram.com/masr.mu">
+   <a href="https://www.instagram.com/masrmuz">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="50" alt="Instagram"/>
   </a>
 </div>
