@@ -17,12 +17,6 @@ I believe in writing clean and maintainable code that follows industry best prac
 - **Performance**: Constantly optimizing to reduce latency and improve response times
 - **Security**: Ensuring data integrity and privacy at every level of the system
 
-## 🌱 What I’m Working On
-**Learning**: Improving my skills in cloud computing, operations system, serverless architecture, and Artificial Intellegance.
-
-## 📫 Let’s Connect
-Feel free to reach out to me if you'd like to connect, collaborate, or just chat about all things! <br>
-
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/masrizki-muzakki-a924942b3" style="text-decoration">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" width="50" alt="LinkedIn"/>
